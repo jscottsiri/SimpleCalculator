@@ -3,23 +3,23 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace basiccalculator.staticCalc
+namespace basiccalculator.statTest
 {
     public class StaticCalc
     {
-        static public calcAdd()
+        static public void CalcAdd()
         {
             
         }
-        static public calcSubtract()
+        static public void CalcSubtract()
         {
 
         }
-        static public calcMultiply()
+        static public void CalcMultiply()
         {
 
         }
-        static public calcDivide()
+        static public void CalcDivide()
         {
             
         }
